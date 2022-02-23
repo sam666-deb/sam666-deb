@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **a.ahsan18ahmed@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/sam666-deb)
+- 📄 Know about my experiences [www.linkedin.com/in/sam666-deb](www.linkedin.com/in/sam666-deb)
 
 - ⚡ Fun fact **I like to work in the dark(😈😈)**
 
