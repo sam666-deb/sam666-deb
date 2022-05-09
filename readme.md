@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React and Node JS**
 
-- 👨‍💻 All of my projects are available at [https://ahsandeb.netlify.app](https://ahsandeb.netlify.app)
+[comment]: # 👨‍💻 All of my projects are available at [https://ahsandeb.netlify.app](https://ahsandeb.netlify.app)
 
 - 💬 Ask me about **C, Dart, Flutter, Java**
 
