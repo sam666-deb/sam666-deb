@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahsan Ahmed</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Unity Game Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam666-deb&label=Profile%20views&color=0e75b6&style=flat" alt="sam666-deb" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **personal Project**
 
-- 🌱 I’m currently learning **React and Node JS**
+- 🌱 I’m currently learning **Multiplayer & NetCode**
 
 - 👨‍💻 All of my projects are available at [https://ahsandeb.netlify.app/](https://ahsandeb.netlify.app/)
 
-- 💬 Ask me about **C, Dart, Flutter, Java**
+- 💬 Ask me about **C, Dart, Flutter, Java, C#, Unity, Python, ML, AI**
 
 - 📫 How to reach me **a.ahsan18ahmed@gmail.com**
 
