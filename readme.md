@@ -1,122 +1,114 @@
-<h1 align="center">Hi there 👋, I'm Ahsan Ahmed</h1>
-<h3 align="center">🎮 Passionate Unity Game Developer from Bangladesh 🎮</h3>
+# 👋 Hi, I'm Ahsan Ahmed
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam666-deb&label=Profile%20views&color=0e75b6&style=flat" alt="sam666-deb" /> </p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sam666-deb&theme=darkhub&row=1&column=6" alt="sam666-deb" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/@samayo666" target="blank">
-    <img src="https://img.shields.io/twitter/follow/@samayo666?logo=twitter&style=for-the-badge" alt="@samayo666" />
-  </a>
-</p>
-
-- 🔭 I’m currently working on **an innovative personal project**
-- 🌱 I’m diving deep into **Multiplayer Systems & NetCode**
-- 👨‍💻 All of my projects are available at [my portfolio](https://ahsandeb.netlify.app/)
-- 💬 Ask me about **C, Dart, Flutter, Java, C#, Unity, Python, ML, AI**
-- 📫 Reach me at **a.ahsan18ahmed@gmail.com**
-- 📄 Check out my experiences on [LinkedIn](https://www.linkedin.com/in/sam666-deb)
-- ⚡ Fun fact: **I love coding in the dark! (😈😈)**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/@samayo666" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@samayo666" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/sam666-deb" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sam666-deb" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.autodesk.com/products/maya/overview" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maya/maya-original.svg" alt="maya" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam666-deb&show_icons=true&locale=en&layout=compact&theme=radical" alt="sam666-deb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam666-deb&show_icons=true&locale=en&theme=radical" alt="sam666-deb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam666-deb&theme=radical" alt="sam666-deb" /></p>
-
----
-
-<h3 align="left">Featured Projects:</h3>
-<div>
-  <p><b>Project 1: <a href="https://your-project-link.com">Project Title</a></b></p>
-  <p>🚀 Description of the project. Highlight key features and what makes it special.</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Unity%20Developer-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Developer" />
+  <img src="https://img.shields.io/badge/AR/VR%20Specialist-FF6B6B?style=for-the-badge&logo=oculus&logoColor=white" alt="AR/VR Specialist" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </div>
-<div>
-  <p><b>Project 2: <a href="https://your-project-link.com">Project Title</a></b></p>
-  <p>🚀 Description of the project. Highlight key features and what makes it special.</p>
-</div>
-<div>
-  <p><b>Project 3: <a href="https://your-project-link.com">Project Title</a></b></p>
-  <p>🚀 Description of the project. Highlight key features and what makes it special.</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=Unity+Game+Developer;AR%2FVR+Specialist;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
-<h3 align="left">What I'm Currently Working On:</h3>
-<p>
-  🌟 <b>Personal Project:</b> Details about your current project, technologies used, and goals.
-</p>
-<p>
-  🌟 <b>Learning Journey:</b> Insights into what you're learning right now and why it excites you.
-</p>
+## 🎮 About Me
+
+I'm a passionate **Unity Game Developer** and **AR/VR Specialist** currently pursuing my Master of Information Technology and Systems at the University of Tasmania. With a strong foundation in computer science and software engineering, I specialize in creating immersive gaming experiences and interactive applications.
+
+### 🚀 What I Do
+- **🎯 Unity 3D Development** - Creating engaging games and interactive experiences
+- **🥽 AR/VR Applications** - Building immersive augmented and virtual reality solutions
+- **💻 Full-Stack Development** - React, Node.js, and modern web technologies
+- **👨‍🏫 Teaching** - Training students in Unity development and game design principles
 
 ---
 
-<h3 align="left">Blog & Articles:</h3>
-<p>📖 Check out my latest articles on game development and technology on <a href="https://your-blog-link.com">My Blog</a>.</p>
+## 🛠️ Tech Stack
+
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=flat-square&logo=google&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-<h3 align="left">Testimonials:</h3>
-<p>💬 "Ahsan is a brilliant game developer who consistently delivers high-quality work. His expertise in Unity and creative problem-solving skills are exceptional." - [Colleague/Client]</p>
-<p>💬 "Working with Ahsan has been a pleasure. His dedication to his craft and attention to detail make him an invaluable team member." - [Colleague/Client]</p>
+## 🎯 Current Focus
+
+- 🎓 **Master's Degree** - Information Technology and Systems at University of Tasmania
+- 🎮 **Unity Projects** - Developing innovative games and AR/VR experiences
+- 🌐 **Portfolio Website** - Showcasing my work and skills
+- 📚 **Continuous Learning** - Staying updated with latest game development trends
 
 ---
 
-<h3 align="left">Certifications & Achievements:</h3>
-<ul>
-  <li>🏅 Certification Name - Issuer</li>
-  <li>🏅 Certification Name - Issuer</li>
-  <li>🏅 Certification Name - Issuer</li>
-</ul>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sam666-deb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam666-deb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-<p align="center">Let's build amazing games together! 🎮✨</p>
+## 🏆 Achievements
+
+- 🎓 **Academic Excellence** - Pursuing Master's in IT & Systems
+- 🎮 **Unity Expertise** - Certified Unity Developer
+- 👨‍🏫 **Teaching Experience** - Unity Development Trainer
+- 🌏 **Global Perspective** - Based in Australia, serving clients worldwide
+
+---
+
+## 🌐 Portfolio & Links
+
+<div align="center">
+  <a href="https://sam666-deb.github.io/Personal-Protfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sam666-deb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:a.ahsan18ahmed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+## 💼 Let's Connect!
+
+I'm always interested in new opportunities and collaborations. Whether you're looking for:
+- 🎮 **Game Development** projects
+- 🥽 **AR/VR Solutions** 
+- 💻 **Web Development** work
+- 👨‍🏫 **Unity Training** sessions
+
+Feel free to reach out!
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sam666-deb&style=flat-square&color=blue" alt="Profile Views" />
+</div>
