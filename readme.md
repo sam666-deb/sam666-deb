@@ -17,6 +17,16 @@ Currently completing a Master of IT & Systems at the University of Tasmania, Aus
 
 ## Building
 
+### 📹&nbsp; [Pulsly](https://github.com/sam666-deb/pulsly)
+Browser-based video calling — no accounts, no downloads, just start a call and send the link. Group calls up to 4 people, screen sharing, text chat, and client-side recording.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+<br/>
+
 ### 🚌&nbsp; [CommuteCast](https://github.com/sam666-deb/CommuteCast)
 Live commute companion merging Melbourne PTV transit data with real-time weather, so you know exactly when to leave the house.
 
